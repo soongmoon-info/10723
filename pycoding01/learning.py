@@ -2,8 +2,9 @@ print('Hello World!!')
 
 
 
-num1=int(input('숫자를 입력하세요:'))
-num2=int(input())
-print('입력한 값은: ',num1, 10)
+#num1 = int(input('첫번째 숫자 입력:'))
+#num2 = int(input('두번째 숫자 입력:'))
+#print('두 수의 합:',num1+num2)
 
-print(int('10')+int('20'))
+year = int(input('태어난 년도를 입력:'))
+print('니 나이는:',2025-year)
