@@ -1,0 +1,5 @@
+math = float(input('수학 점수:'))
+language = float(input('국어 점수:'))
+info = float(input('정보 점수'))
+print('총합:', math+language+info)
+print('평균 점수',(math+language+info)/3)
