@@ -6,6 +6,7 @@
 # print(tempList[1][1])
 
 tempList = [10,20,30]
+print('변경 전:',tempList)
 tempList[0] = 1
 tempList[1] = 2
 tempList[2] = 3
