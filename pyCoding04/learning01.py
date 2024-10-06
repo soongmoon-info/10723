@@ -39,8 +39,8 @@
 #     break
 # print(a)
 
-aaa = [[1,2,3],[4,5,6],[7,8,9]]
-for x in aaa:
-  print(x)
-  for y in x:
-    print(y)
+# aaa = [[1,2,3],[4,5,6],[7,8,9]]
+# for x in aaa:
+#   print(x)
+#   for y in x:
+#     print(y)
