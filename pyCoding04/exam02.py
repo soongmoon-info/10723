@@ -15,8 +15,7 @@ for stu in student:
         score = '국어 점수'
       else:
         score = '정보 점수'
-      del(stu[i])
-      stu.insert(i,float(input(stu[0]+' 학생 '+score+'를 입력하시오:')))
+      stu[i]=float(input(stu[0]+' 학생 '+score+'를 입력하시오:'))
 
 
  
